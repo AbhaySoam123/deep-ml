@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:58:37.589Z",
+  "generated_at": "2026-10-04T18:43:43.385Z",
   "items": {
     "problem:1128": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-10-04T17:58:36.521Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1127": {
+      "kind": "problem",
+      "id": "1127",
+      "title": "Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1127",
+      "path": "problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric",
+      "first_solved_at": "2026-10-04T18:43:42.808Z",
+      "last_pushed_at": "2026-10-04T18:43:42.808Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
