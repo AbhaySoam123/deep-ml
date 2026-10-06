@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:15:14.229Z",
+  "generated_at": "2026-10-06T18:39:32.197Z",
   "items": {
     "problem:1128": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-06T18:15:13.414Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1463": {
+      "kind": "problem",
+      "id": "1463",
+      "title": "Cumulative Percentage of Scores by Bucket Within Each Grade",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1463",
+      "path": "problems/1463-cumulative-percentage-of-scores-by-bucket-within-each-grade",
+      "first_solved_at": "2026-10-06T18:39:31.568Z",
+      "last_pushed_at": "2026-10-06T18:39:31.568Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
