@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-06 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-04 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-10-06 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Cumulative Percentage of Scores by Bucket Within Each Grade](https://www.deep-ml.com/problems/1463) | medium | 2026-10-06 | [solution](problems/1463-cumulative-percentage-of-scores-by-bucket-within-each-grade) |
